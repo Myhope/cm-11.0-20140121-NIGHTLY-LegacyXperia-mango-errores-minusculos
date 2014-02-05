@@ -5,7 +5,7 @@ hi all I bring you a list of errors sk17a mini pro (mango) do not run the apps a
 * * Mx player pro. 
 * * Stops when the camera when recording video. 
 * * Stops the Trebuchet. 
-* * The google is very slow with some hanging.
+* * The google is very slow with some are hung.
 * * Computer does not recognize  ADB at least before passing to legacyXperia have recognized the computer 
 run the rest of the fantastic 
 * Link2SD (fantastic) 
